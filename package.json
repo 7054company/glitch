@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "start": "node index.js" 
+  "start": " ./7ea ip && ./7ea e node index.js " 
   },
   "author": "",
   "license": "ISC",
